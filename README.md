@@ -122,6 +122,8 @@ git clone https://github.com/9rf3/VELOCITY-DRIVE.git
 
 cd VELOCITY-DRIVE
 
-npm install
+pnpm install
 
-npm start
+pnpm build
+
+pnpm start
